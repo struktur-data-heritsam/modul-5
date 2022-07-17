@@ -1,3 +1,3 @@
-# Jurnal 5 Struktur Data
+# Jurnal 5
 
 Soal: [PDF](soal.pdf)
